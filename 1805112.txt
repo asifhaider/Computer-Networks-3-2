@@ -1,0 +1,45 @@
+Sent Packets:  118141
+Dropped Packets:  110626
+Received Packets:  7446
+-------------------------------------------------------------
+Network throughput:  287480 bits/sec
+End-to-end (average) Delay:  0.30101 seconds
+Packet delivery ratio:  6.30264 %
+Packet drop ratio:  93.639 %
+=============================================================
+Sent Packets:  240813
+Dropped Packets:  231757
+Received Packets:  8985
+-------------------------------------------------------------
+Network throughput:  325660 bits/sec
+End-to-end (average) Delay:  0.271927 seconds
+Packet delivery ratio:  3.73111 %
+Packet drop ratio:  96.2394 %
+=============================================================
+Sent Packets:  361353
+Dropped Packets:  354979
+Received Packets:  6299
+-------------------------------------------------------------
+Network throughput:  228307 bits/sec
+End-to-end (average) Delay:  0.395177 seconds
+Packet delivery ratio:  1.74317 %
+Packet drop ratio:  98.2361 %
+=============================================================
+Sent Packets:  477627
+Dropped Packets:  471444
+Received Packets:  6109
+-------------------------------------------------------------
+Network throughput:  221420 bits/sec
+End-to-end (average) Delay:  0.40147 seconds
+Packet delivery ratio:  1.27903 %
+Packet drop ratio:  98.7055 %
+=============================================================
+Sent Packets:  611768
+Dropped Packets:  605796
+Received Packets:  5893
+-------------------------------------------------------------
+Network throughput:  213591 bits/sec
+End-to-end (average) Delay:  0.410047 seconds
+Packet delivery ratio:  0.963274 %
+Packet drop ratio:  99.0238 %
+=============================================================
